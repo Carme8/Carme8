@@ -11,6 +11,8 @@ Junior Python Developer, attualmente impegnata in un percorso di sviluppo profes
 
 🔐 Ethical Hacker Cybersecurity
 
+🔍 Indagini Digital Forensics
+
 
 ### 📫 Connect with me: 
 
