@@ -7,9 +7,13 @@ Junior IT in formazione, con focus su AWS Cloud Security e Cybersecurity, in fas
 💻 Appassionata di Tecnologia.
 
 🌱 Sviluppo Professionale In Progress:
+
 ☁️ AWS Cloud Solution Architect
+
 🚀 Programmazione Python
+
 🔐 Ethical Hacker Cybersecurity
+
 🔍 Indagini Digital Forensics
 
 Cerco opportunità per mettere in pratica ciò che sto apprendendo, contribuire a progetti stimolanti e continuare a migliorare. Pronta a imparare e fare la differenza.
