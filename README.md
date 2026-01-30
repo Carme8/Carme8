@@ -1,23 +1,20 @@
 
 ## Ciao, sono Carmen Giorgio! 👋
 
-### Junior Cybersecurity & Digital Forensics | Junior AWS Cloud & Security Engineer | Junior Python Developer
+## Junior ➡️ Cloud Security Engineer 🔐  | AWS Certified Solutions Architect ☁️ | Python Developer 💻 
 
-Junior IT in formazione, con focus su AWS Cloud Security e Cybersecurity, in fase di sviluppo professionale. Background tecnico in crescita, orientata a ruoli di Junior AWS Cloud Engineer, Junior SOC Analyst e Junior Cybersecurity Analyst, con approccio analitico e mindset orientato alla sicurezza.
+🚀 Junior IT in Formazione, con focus su AWS Cloud Security e Cybersecurity, in fase di sviluppo professionale. Background tecnico in crescita, orientata a ruoli di Junior AWS Cloud Engineer, Junior SOC Analyst e Junior Cybersecurity Analyst, con approccio analitico e mindset orientato alla sicurezza.
 
 💻 Appassionata di Tecnologia.
 
 🌱 Sviluppo Professionale In Progress:
 
-☁️ AWS Cloud Solution Architect
+- ☁️ AWS Cloud Solution Architect
+- 💻 Programmazione Python
+- 🔐 Cybersecurity
+- 🔍 Indagini Digital Forensics
 
-🚀 Programmazione Python
-
-🔐 Ethical Hacker Cybersecurity
-
-🔍 Indagini Digital Forensics
-
-Cerco opportunità per mettere in pratica ciò che sto apprendendo, contribuire a progetti stimolanti e continuare a migliorare. Pronta a imparare e fare la differenza.
+Cerco opportunità come Junior Cloud Security Engineer o SOC Analyst, dove la mia precedente esperienza nella gestione di progetti complessi possa rappresentare un valore aggiunto immediato in termini di precisione e affidabilità.
 
 
 ### 📫 Connect with me: 
