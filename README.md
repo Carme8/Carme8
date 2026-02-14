@@ -67,18 +67,6 @@ Ethical red team lab con VPC segmentation e security hardening.
 
 ---
 
-## 🎓 Certifications
-
-- ☁️ **AWS Certified Solutions Architect – Associate**
-- 🔒 **AWS Certified Security – Specialty**
-- ✅ **AWS Certified Cloud Practitioner**
-- 🛡️ **CompTIA Security+**
-- 🔐 **Cisco CCST Cybersecurity**
-
-[View all certifications →](https://www.linkedin.com/in/carmen-giorgio)
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
