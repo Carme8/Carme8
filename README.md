@@ -19,7 +19,10 @@ Dal 2024 focus su **AWS Cloud Architecture**, **DevSecOps** e **Security Automat
 
 - 🔭 Attualmente lavoro su: **Infrastructure as Code** e **Zero Trust architectures**
 - 🌱 Sto imparando: **Kubernetes**, **Terraform**, **AWS Security Lake**
-- 🛡️ Certificazioni: **3x AWS** (SAA, Security Specialty, CCP) + **CompTIA Security+** + **Cisco CCST**
+- 🛡️ Certificazioni:
+  - ☁️ AWS Solutions Architect Associate, Security Specialty, Cloud Practitioner
+  - 🔒 CompTIA Security+, Cisco CCST Cybersecurity
+  - 🐍 Python PCA Intermediate
 - 📍 Location: Bari, Italia 🇮🇹
 - 💼 Disponibile per: **Junior Cloud Engineer**, **DevOps**, **SOC Analyst**
 
