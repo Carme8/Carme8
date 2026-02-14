@@ -2,7 +2,7 @@
 
 # 👋 Ciao, sono Carmen!
 
-**Junior ➡️ Cloud Security Engineer | AWS Cloud Infrastructure**
+**Junior ➡️ Cloud & Cybersecurity Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carmen-giorgio)
 [![Certificazioni](https://img.shields.io/badge/CERTIFICAZIONI-VIEW-FF6B6B?style=for-the-badge&logo=certificate&logoColor=white)](https://www.linkedin.com/in/carmen-giorgio/details/certifications/)
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Cloud & Security Engineer in career transition con 14 anni di background in Operations. 
+Cloud & Security Engineer in career transition con 14 anni di Background in WFM Operations. 
 
 Dal 2024 focus su **AWS Cloud Architecture**, **DevSecOps** e **Security Automation**.
 
@@ -44,12 +44,12 @@ Enterprise DevSecOps architecture con AI-powered PII detection e Zero Trust netw
 ### 🎣 [AWS Secure Phishing Infrastructure](https://github.com/Carme8/AWS-Secure-Phishing-CDK)
 Ethical red team lab con VPC segmentation e security hardening.
 
-**Stack:** Python CDK • EC2 • Docker • GoPhish • WAF • SSM
+**Stack:** Python CDK • EC2 • GoPhish • ALB • WAF • SSM • GuardDuty
 
-🔹 VPC network segmentation  
+🔹 VPC network segmentation (public/private subnets)  
 🔹 Zero SSH access (AWS Systems Manager)  
 🔹 Security hardening con GuardDuty + Inspector  
-🔹 Containerized deployment (Docker)
+🔹 Infrastructure as Code con Python CDK
 
 [➡️ View Project](https://github.com/Carme8/AWS-Secure-Phishing-CDK)
 
@@ -101,5 +101,3 @@ Ethical red team lab con VPC segmentation e security hardening.
 </div>
 
 </div>
-
-
