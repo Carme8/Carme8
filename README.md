@@ -1,20 +1,43 @@
 
 ## Ciao, sono Carmen Giorgio! 👋
+### Junior ➡️ Cloud & Security Engineer | AWS & Cloud Infrastructure
 
-## Junior ➡️ Cloud Security Engineer 🔐  | AWS Certified Solutions Architect ☁️ | Python Developer 💻 
+🚀 Nel 2024 ho scelto di seguire la mia passione per AWS Cloud e Cybersecurity, iniziando un percorso di formazione intensiva dopo anni in Workforce Management Operations.
 
-🚀 Junior IT in Formazione, con focus su AWS Cloud Security e Cybersecurity, in fase di sviluppo professionale. Background tecnico in crescita, orientata a ruoli di Junior AWS Cloud Engineer, Junior SOC Analyst e Junior Cybersecurity Analyst, con approccio analitico e mindset orientato alla sicurezza.
+💼 𝗖𝗢𝗦𝗔 𝗣𝗢𝗥𝗧𝗢
+14 Anni in WFM Operations mi hanno dato mentalità orientata all'automazione, capacità di monitoraggio e risoluzione problemi, gestione di progetti complessi. La formazione 2024-2025 mi ha dato 3 certificazioni AWS (inclusa Security Specialty), CompTIA Security+ , Cisco Cybersecurity CCST e 2 progetti DevSecOps pratici. Porto questa combinazione unica.
 
-💻 Appassionata di Tecnologia.
+🎯 𝗖𝗢𝗦𝗔 𝗖𝗘𝗥𝗖𝗢
+Un'opportunità come Junior Cloud Engineer, DevOps Engineer o SOC Analyst in un team che investe nella crescita dei Junior e dove poter imparare da colleghi esperti.
 
-🌱 Sviluppo Professionale In Progress:
+𝗔𝗺𝗯𝗶𝗲𝗻𝘁𝗲 𝗶𝗱𝗲𝗮𝗹𝗲:
+📚 Apprendimento continuo e affiancamento
 
-- ☁️ AWS Cloud Solution Architect
-- 💻 Programmazione Python
-- 🔐 Cybersecurity
-- 🔍 Indagini Digital Forensics
+🛡️ Cultura orientata alla sicurezza 
 
-Cerco opportunità come Junior Cloud Security Engineer o SOC Analyst, dove la mia precedente esperienza nella gestione di progetti complessi possa rappresentare un valore aggiunto immediato in termini di precisione e affidabilità.
+🤝 Responsabilità e collaborazione 
+
+🛠️ Crescita attraverso il fare 
+
+💡 𝗖𝗢𝗠𝗘 𝗔𝗙𝗙𝗥𝗢𝗡𝗧𝗢 𝗜𝗟 𝗟𝗔𝗩𝗢𝗥𝗢
+Approccio curioso e produttivo, capacità di lavorare autonomamente con supporto del Team quando necessario. Porto affidabilità e impegno costante.
+
+---
+
+✅ 𝗗𝗶𝘀𝗽𝗼𝗻𝗶𝗯𝗶𝗹𝗲 𝗽𝗲𝗿 𝗶𝗻𝘀𝗲𝗿𝗶𝗺𝗲𝗻𝘁𝗼 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗼
+
+📍 Bari, Italia | 🌐 Remote/Hybrid/On-site
+
+📍 Milano, Italia | 🌐 Remote/Hybrid
+
+---
+
+💻 Progetti: 🔗 GitHub: github.com/Carme8
+
+✅ Certificazioni: <a href="https://www.linkedin.com/in/carmen-giorgio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn"/></a>
+
+---
+
 
 
 ### 📫 Connect with me: 
